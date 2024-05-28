@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "name": "Lab8-Starter",
+    "short_name": "Julia Berdeski",
+    "description": "A web app to save recipes",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFF",
+    "theme_color": "#FDF6EB",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
